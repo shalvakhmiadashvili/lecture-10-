@@ -80,4 +80,5 @@ textarea::placeholder {
 
 .input-box > input::placeholder {
     color: rgba(243, 96, 228, 0.775);
+    
 }
